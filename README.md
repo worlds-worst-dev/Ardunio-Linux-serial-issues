@@ -1,4 +1,5 @@
 # SOLUTION-Ardunio-Linux-serial-issues
+
 Solution to serial connection issue
 
 OS - POP_OS 22.04
